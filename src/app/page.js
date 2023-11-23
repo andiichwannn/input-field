@@ -55,7 +55,7 @@ export default function Home() {
             <h1>{nama}</h1>
             <div className='bio-nim-header-banner'>
               <p>D121211025</p>
-              <p>PMW A 2023 </p>
+              <p>testestes </p>
             </div>
           </div>
         </div>
