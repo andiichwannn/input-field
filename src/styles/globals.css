@@ -15,8 +15,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     background-color: #031824;
     row-gap: 32px;
+    overflow-x: hidden;
+    padding-top: 180px;
   }
   
